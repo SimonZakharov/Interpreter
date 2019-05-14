@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<english_language>
+  <!-- Названия пунктов меню -->
+  <menu_items>
+    <item id="0">File</item> 
+    <item id="1">Settings</item>
+      <sub_item>Language</sub_item>
+      <sub_item>Syntax lightout</sub_item>
+      <sub_item>View</sub_item>
+    <item id="2">Help</item>
+      <sub_item>About program</sub_item>
+      <sub_item>User manual</sub_item>
+    <item id="3">Exit</item>
+  </menu_items>
+  <!-- Условия задач -->
+  <problems>
+    
+  </problems>
+ </english_language>
